@@ -1,0 +1,6 @@
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\bin\Debug\HelloWorld1WEEK.exe.config
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\bin\Debug\HelloWorld1WEEK.exe
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\bin\Debug\HelloWorld1WEEK.pdb
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\obj\Debug\HelloWorld1WEEK.csprojResolveAssemblyReference.cache
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\obj\Debug\HelloWorld1WEEK.exe
+c:\users\a. u. shvaiko\documents\visual studio 2015\Projects\HelloWorld1WEEK\HelloWorld1WEEK\obj\Debug\HelloWorld1WEEK.pdb
